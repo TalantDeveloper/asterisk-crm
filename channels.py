@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 # Replace these variables with your actual ARI credentials and Asterisk server details
 ARI_USERNAME = 'asterisk'
 ARI_PASSWORD = '@Botirjon06'
-ASTERISK_HOST = '192.168.30.56'
+ASTERISK_HOST = '172.16.0.117'
 ARI_PORT = '8088'  # Default ARI port
 
 # The URL for fetching channel data
